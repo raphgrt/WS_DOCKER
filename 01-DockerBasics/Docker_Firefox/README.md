@@ -1,6 +1,6 @@
 # Construction de l'image
 ```bash
-docker build -t firefox
+docker build -t firefox .
 ```
 
 # Compilation du projet dans le conteneur
