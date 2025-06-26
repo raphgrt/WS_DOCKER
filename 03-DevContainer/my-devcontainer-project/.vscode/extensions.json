@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cmake-tools",
+        "ms-python.python",
+        "esbenp.prettier-vscode",
+        "rust-lang.rust",
+        "redhat.java",
+        "ms-azuretools.vscode-docker"
+    ]
+}
